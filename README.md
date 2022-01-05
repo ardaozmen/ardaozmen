@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">Researcher</h3>
+<h1 align="left">Hi 👋, I'm Arda</h1>
+<h3 align="left">Researcher</h3>
 
-- 🔭 I’m currently working on **NLP in Turkish Language**
+-  I’m currently working on **NLP in Turkish Language**
 
-- 🌱 I’m currently learning **Flask, FastAPI**
+-  I’m currently learning **Flask, FastAPI**
 
-- 💬 Ask me about **Python, NLP, Transformers**
+-  Ask me about **Python, NLP, Transformers**
 
-- 📫 How to reach me **arda_ozmen@outlook.com**
+-  How to reach me **arda_ozmen@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
