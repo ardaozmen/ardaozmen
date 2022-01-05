@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Arda</h1>
+<h1 align="left">Hi, I'm Arda 👋 </h1>
 <h3 align="left">Researcher</h3>
 
 -  I’m currently working on **NLP in Turkish Language**
