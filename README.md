@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, FastAPI**
 
-- 💬 Ask me about **Python, NLP**
+- 💬 Ask me about **Python, NLP, Transformers**
 
 - 📫 How to reach me **arda_ozmen@outlook.com**
 
