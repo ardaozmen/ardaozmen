@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Arda 👋 </h1>
-<h3 align="left">Researcher</h3>
+<h2 align="left">Hi, I'm Arda 👋 </h2>
+<h4 align="left">Researcher</h4>
 
 -  I’m currently working on **NLP in Turkish Language**
 
