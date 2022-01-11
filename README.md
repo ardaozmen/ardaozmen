@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Arda 👋 </h2>
-<h4 align="left">Researcher</h4>
+<h4 align="left">Research & Implement</h4>
 
 -  I’m currently working on **NLP in Turkish Language**
 
