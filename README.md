@@ -7,7 +7,7 @@
 
 -  I’m currently learning **Flask, FastAPI**
 
--  Discuss me about **Python, NLP, Transformers**
+-  Discuss me about **Transformers**
 
 -  How to reach me **arda_ozmen@outlook.com**
 
