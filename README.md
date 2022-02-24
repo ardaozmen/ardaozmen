@@ -3,11 +3,11 @@
 <h4 align="left">Research & Implement</h4>
 -->
 
--  I’m currently working on **NLP in Turkish Language**
+-  I’m currently working on **Python, Web Development, NLP**
 
 -  I’m currently learning **Flask, FastAPI**
 
--  Ask me about **Python, NLP, Transformers**
+-  Discuss me about **Python, NLP, Transformers**
 
 -  How to reach me **arda_ozmen@outlook.com**
 
