@@ -3,7 +3,7 @@
 <h4 align="left">Research & Implement</h4>
 -->
 
--  I’m currently working on **Python, Web Development, NLP**
+-  I’m currently working on **Web Development, NLP**
 
 -  I’m currently learning **Flask, FastAPI**
 
