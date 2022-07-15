@@ -3,9 +3,9 @@
 <h4 align="left">Research & Implement</h4>
 -->
 
-- 🔭 I’m currently working on **NLP, Web Development**
+- 🔭 I’m currently working on **Backend Development, NLP**
 
-- 🌱 I’m currently learning **[Flask](https://flask.palletsprojects.com/en/2.1.x/), [Selenium](https://selenium-python.readthedocs.io/)**
+- 🌱 I’m currently learning **[Flask](https://flask.palletsprojects.com/en/2.1.x/), [Django Rest Framework](https://www.django-rest-framework.org/)**
 
 - 💬 Discuss me about **[Transformers](https://huggingface.co/transformers/v3.0.2/index.html)**
 
@@ -18,9 +18,10 @@
 <a href="https://www.hackerrank.com/ardaozmen3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ardaozmen3" height="30" width="40" /></a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  </a> </p>
-
+-->
 
 <!--
 **ardaozmen/ardaozmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
